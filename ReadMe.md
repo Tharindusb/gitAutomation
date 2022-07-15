@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 ### Usage:
 ```bash
-To run the script type in 'create <name of your folder>'
+Run the script.py and enter the Project name
 ```
 
 ### Env File Format:
