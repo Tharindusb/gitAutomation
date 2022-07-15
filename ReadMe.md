@@ -1,3 +1,9 @@
+<img align="middle" src="https://www.flaticon.com/free-icon/github_1051326?term=github&page=1&position=3&page=1&position=3&related_id=1051326&origin=search" width="500" height="250">
+<br>
+
+### Requiremnts:
+
+
 ### Usage:
 ```bash
 To run the script type in 'create <name of your folder>'
