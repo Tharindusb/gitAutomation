@@ -1,4 +1,4 @@
-<img align="middle" src="https://www.flaticon.com/free-icon/github_1051326?term=github&page=1&position=3&page=1&position=3&related_id=1051326&origin=search" width="500" height="250">
+<img align="middle" src="https://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" width="500" height="250">
 <br>
 
 ### Requiremnts:
@@ -15,3 +15,4 @@ github_token = gxx_UxxxGxhxxxxxxxvxxx8954xx1xL0xxYxxxx
 projecrDir = /home/user/Documents/Project
 acount_url = git@github.com:username/
 ```
+
