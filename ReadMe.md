@@ -1,4 +1,4 @@
-<img align="middle" src="https://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" width="500" height="250">
+<img align="middle" src="https://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" width="500" height="500">
 <br>
 
 ### Requiremnts:
