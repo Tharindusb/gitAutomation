@@ -1,8 +1,15 @@
-<img align="middle" src="https://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" width="500" height="500">
+# GitHub Automation
+
+<img align="left" src="https://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" width="250" height="250">
+<img align="right" src="https://www.iconspng.com/uploads/python-logo.png" width="257" height="256">
 <br>
 
-### Requiremnts:
-
+### Required libraries:
+```bash
+import os
+import requests
+from dotenv import load_dotenv
+```
 
 ### Usage:
 ```bash
