@@ -1,7 +1,6 @@
 # GitHub Automation
 
 <img align="middle" src="https://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" width="250" height="250">
-<img align="middle" src="https://www.iconspng.com/uploads/python-logo.png" width="257" height="256">
 <br>
 
 ### Required libraries:
